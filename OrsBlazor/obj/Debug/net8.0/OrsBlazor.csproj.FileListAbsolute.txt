@@ -29,3 +29,4 @@ C:\Dev\Projects\ors\OrsBlazor\obj\Debug\net8.0\refint\OrsBlazor.dll
 C:\Dev\Projects\ors\OrsBlazor\obj\Debug\net8.0\OrsBlazor.pdb
 C:\Dev\Projects\ors\OrsBlazor\obj\Debug\net8.0\OrsBlazor.genruntimeconfig.cache
 C:\Dev\Projects\ors\OrsBlazor\obj\Debug\net8.0\ref\OrsBlazor.dll
+C:\Dev\Projects\ors\OrsBlazor\obj\Debug\net8.0\OrsBlazor.sourcelink.json

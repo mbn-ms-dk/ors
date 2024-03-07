@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrsBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d3bc5ab4ae15055836550c97082e38713788564")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrsBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrsBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
